@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;x&apos; in &apos;버블정렬.버블정렬_오름차순.main(...)&apos; to &apos;temp&apos;&#x0D;&#x0A;- Original project: &apos;Ex14정렬과탐색&apos;&#x0D;&#x0A;- Original element: &apos;버블정렬.버블정렬_오름차순.main(String[]).x&apos;&#x0D;&#x0A;- Renamed element: &apos;x&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;x&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;버블정렬{버블정렬_오름차순.java[버블정렬_오름차순~main~\[QString;@x!722!735!726!726!I!0!false" name="temp" references="true" stamp="1661478115498" version="1.0"/>
+</session>

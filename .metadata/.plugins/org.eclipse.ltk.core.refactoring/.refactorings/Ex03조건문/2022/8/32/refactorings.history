@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;단순if문.EX04if문4&apos; to &apos;EX04ifelse문&apos;&#x0D;&#x0A;- Original project: &apos;Ex03조건문&apos;&#x0D;&#x0A;- Original element: &apos;단순if문.EX04if문4&apos;&#x0D;&#x0A;- Renamed element: &apos;단순if문.EX04ifelse문&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EX04if문4&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;단순if문{EX04if문4.java[EX04if문4" matchStrategy="1" name="EX04ifelse문" qualified="false" references="true" similarDeclarations="false" stamp="1659668305280" textual="false" version="1.0"/>
+</session>
